@@ -7,7 +7,7 @@ public class TodoList {
 		list.addTask("Test");
 		list.addTask("Test 2 ");
 		
-		renvoie les listes...
+	//	renvoie les listes...
 list.taskDone(0);
 		System.out.println(list);
 	}
