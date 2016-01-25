@@ -6,6 +6,8 @@ public class TodoList {
 	// ajoute 2 taches....
 		list.addTask("Test");
 		list.addTask("Test 2 ");
+		
+		renvoie les listes...
 list.taskDone(0);
 		System.out.println(list);
 	}
